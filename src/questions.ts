@@ -289,7 +289,7 @@ export const questions: Question[] = [
   {
     questionNumber: 22,
     reference: "BAFS600C2Ch1-22",
-    text: "Sandy is a ______________, while Frankie is a ______________.",
+    text: "Sandy is the CEO of Star Limited, which provides wedding planning services. She wrote an email to ask Frankie, the department head of the Kowloon Division, to run a new programme, called 'First time and Forever'. Sandy is a ______________, while Frankie is a ______________.",
     options: {
       A: "middle manager ...... first-line manager",
       B: "first-line manager ...... top manager",
@@ -302,7 +302,7 @@ export const questions: Question[] = [
   {
     questionNumber: 23,
     reference: "BAFS600C2Ch1-23",
-    text: "Which of the following is the duty performed by Frankie in the above case?",
+    text: "Sandy is the CEO of Star Limited, which provides wedding planning services. She wrote an email to ask Frankie, the department head of the Kowloon Division, to run a new programme, called 'First time and Forever'. Which of the following is the duty performed by Frankie in the above case?",
     options: {
       A: "cope with customers’ complaints",
       B: "carry out plans and decisions made",
@@ -406,7 +406,7 @@ export const questions: Question[] = [
   {
     questionNumber: 31,
     reference: "BAFS600C2Ch1-31",
-    text: "Which of the following leadership styles should be adopted by James to make his decision?",
+    text: "James, the general manager of BOP Limited, is making an important decision. Since the company is facing a severe financial crisis, he is considering whether to fire his employees, which is likely to be opposed by them. Which of the following leadership styles should be adopted by James to make his decision?",
     options: {
       A: "autocratic leadership",
       B: "laissez-faire leadership",
@@ -419,7 +419,7 @@ export const questions: Question[] = [
   {
     questionNumber: 32,
     reference: "BAFS600C2Ch1-32",
-    text: "Which of the following statements are INCORRECT?\n\n(1) James is the first-line manager of the firm.\n(2) James should lay off all workers who are dissatisfied with the decision.\n(3) When workers are inexperienced, James should not use participative and laissez-faire leadership styles.",
+    text: "James, the general manager of BOP Limited, is making an important decision. Since the company is facing a severe financial crisis, he is considering whether to fire his employees, which is likely to be opposed by them. Which of the following statements are INCORRECT?\n\n(1) James is the first-line manager of the firm.\n(2) James should lay off all workers who are dissatisfied with the decision.\n(3) When workers are inexperienced, James should not use participative and laissez-faire leadership styles.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -445,7 +445,7 @@ export const questions: Question[] = [
   {
     questionNumber: 34,
     reference: "BAFS600C2Ch1-34",
-    text: "Which type of management does Banjo engage in?",
+    text: "Joe is a salesperson newly employed at the beginning of the year. Throughout the year, he is responsible for promoting and selling smartphones in a shop of the store chain. In the year end, Banjo, the shop supervisor, decides to carry out controlling to evaluate the performance of Joe and other salesmen. Which type of management does Banjo engage in?",
     options: {
       A: "top management",
       B: "middle management",
@@ -458,7 +458,7 @@ export const questions: Question[] = [
   {
     questionNumber: 35,
     reference: "BAFS600C2Ch1-35",
-    text: "Which of the following are tasks done by Banjo?\n\n(1) coach salesmen\n(2) settle conflicts between salesmen and customers\n(3) work out the development plans for the store chain",
+    text: "Joe is a salesperson newly employed at the beginning of the year. Throughout the year, he is responsible for promoting and selling smartphones in a shop of the store chain. In the year end, Banjo, the shop supervisor, decides to carry out controlling to evaluate the performance of Joe and other salesmen. Which of the following are tasks done by Banjo?\n\n(1) coach salesmen\n(2) settle conflicts between salesmen and customers\n(3) work out the development plans for the store chain",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -471,7 +471,7 @@ export const questions: Question[] = [
   {
     questionNumber: 36,
     reference: "BAFS600C2Ch1-36",
-    text: "Which of the following are within the process of controlling carried out by Banjo?\n\n(1) set sales targets\n(2) group salesmen into different teams\n(3) record sales of all salespeople",
+    text: "Joe is a salesperson newly employed at the beginning of the year. Throughout the year, he is responsible for promoting and selling smartphones in a shop of the store chain. In the year end, Banjo, the shop supervisor, decides to carry out controlling to evaluate the performance of Joe and other salesmen. Which of the following are within the process of controlling carried out by Banjo?\n\n(1) set sales targets\n(2) group salesmen into different teams\n(3) record sales of all salespeople",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -484,7 +484,7 @@ export const questions: Question[] = [
   {
     questionNumber: 37,
     reference: "BAFS600C2Ch1-37",
-    text: "Which of the following is NOT a performance indicator for Joe as a salesman?",
+    text: "Joe is a salesperson newly employed at the beginning of the year. Throughout the year, he is responsible for promoting and selling smartphones in a shop of the store chain. In the year end, Banjo, the shop supervisor, decides to carry out controlling to evaluate the performance of Joe and other salesmen. Which of the following is NOT a performance indicator for Joe as a salesman?",
     options: {
       A: "number of complaints received from customers",
       B: "sales volume",
@@ -705,7 +705,7 @@ export const questions: Question[] = [
   {
     questionNumber: 54,
     reference: "BAFS600C2Ch1-57",
-    text: "Which principle of effective management has been violated?",
+    text: "JB Ltd is a shop selling sports equipment. Lilian and Fiona, managers of the same rank, supervise all the shop assistants. One day, Fiona hired a new shop assistant. She asked him to handle the inventory for the whole day. In the afternoon, Lilian told this assistant to go out and take the purchased products for the company. Which principle of effective management has been violated?",
     options: {
       A: "authority and delegation",
       B: "unity of direction",
@@ -718,7 +718,7 @@ export const questions: Question[] = [
   {
     questionNumber: 55,
     reference: "BAFS600C2Ch1-58",
-    text: "Which of the following are possible problems arisen from the violation of the principle of effective management in Q.57?\n\n(1) Conflicting commands may be given.\n(2) Staff efforts are not directed towards the same plan.\n(3) Employees are confused.",
+    text: "JB Ltd is a shop selling sports equipment. Lilian and Fiona, managers of the same rank, supervise all the shop assistants. One day, Fiona hired a new shop assistant. She asked him to handle the inventory for the whole day. In the afternoon, Lilian told this assistant to go out and take the purchased products for the company. Which of the following are possible problems arisen from the violation of the principle of effective management in Q.57?\n\n(1) Conflicting commands may be given.\n(2) Staff efforts are not directed towards the same plan.\n(3) Employees are confused.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
