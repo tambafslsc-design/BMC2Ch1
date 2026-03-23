@@ -328,7 +328,7 @@ export const questions: Question[] = [
   {
     questionNumber: 25,
     reference: "BAFS600C2Ch1-25",
-    text: "Which of the following tasks is NOT done by Joseph?",
+    text: "Joseph, the CEO of MJ Limited, is planning to establish a customer service department. He would like to recruit employees and set up the department in 11 months. Mary is the centre director of the new customer service centre and she has to organise all the important affairs about this plan, like deciding the geographical location of the centre and the number of employees.\nWhich of the following tasks is NOT done by Joseph?",
     options: {
       A: "deciding the company’s vision and mission",
       B: "making decisions about the relocation of production bases",
